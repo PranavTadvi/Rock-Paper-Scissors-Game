@@ -17,21 +17,22 @@ Test your luck and reflexes against the computer — choose your move, see the r
 
 🕹️ How to Play
 
-Select your move (Rock, Paper, or Scissors).
+1. Select your move (Rock, Paper, or Scissors).
 
-The computer will instantly pick its move.
+2. The computer will instantly pick its move.
 
-The game will display the result for that round:
+3. The game will display the result for that round:
 
-Rock beats Scissors
+-> Rock beats Scissors
 
-Scissors beats Paper
+-> Scissors beats Paper
 
-Paper beats Rock
+-> Paper beats Rock
 
-The scoreboard updates automatically.
+4. The scoreboard updates automatically.
 
-Use the Reset button to clear scores and start over.
+5. Use the Reset button to clear scores and start over.
+
 
 💡 Future Enhancements
 
