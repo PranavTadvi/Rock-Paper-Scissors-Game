@@ -33,6 +33,10 @@ Test your luck and reflexes against the computer — choose your move, see the r
 
 5. Use the Reset button to clear scores and start over.
 
+# Screeshot
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8974db79-6f02-422a-b4be-c5f86d4dac49" />
+
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bb3fa96-4811-41ff-9249-b9207d24e11c" />
 
 💡 Future Enhancements
 
